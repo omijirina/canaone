@@ -76,14 +76,14 @@ video:
 ######################## Products #############################
 products:
   enable : true
-  title : "Hoja de producto"
+  title : "Terméklap"
   # product item comes from "content/products"
 
 
 ########################## Testimonial ########################
 testimonial:
   enable : true
-  title : "Lo que dice la gente sobre nuestro producto"
+  title : "Amit az emberek mondanak a termékünkről"
   testimonialItem:
     # testimonial item loop
     - name : "Florentina Villca"
