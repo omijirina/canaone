@@ -1,8 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Crema de día antiedad que restaura el volumen perdido de la piel del rostro."
-  content : "Para combatir eficazmente los cambios relacionados con la edad en la piel del rostro, es necesario, en primer lugar, pensar profundamente. Los científicos de hoy han llegado a la conclusión de que la clave para la juventud y la firmeza de la piel radica en una hidratación intensa, que apoya el metabolismo natural."
+  title : "KAMPA KENYÉR 10% KÖZÖS IZOMFájdalom GYÓGYSZERÉSZET."
+  content : "Relaxáló kenderkrém 250 ml, 10% kendermagolajjal."
   image : "images/banner.png"
   # button
   button:
@@ -17,15 +17,15 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "Acerca de nuestro producto"
-  content : "Un súper humectante reconocido es el ácido hialurónico, que puede unir grandes cantidades de agua, evitando así la sequedad, la opacidad y las arrugas."
+  title : "A termékünkről"
+  content : "A Cannabis Relaxing Kender Cream egy kozmetikai termék, amely 10% kendermagolajat (Cannabis Sativa) tartalmaz. Tulajdonságainak köszönhetően megkönnyíti a masszázst - könnyen felszívódik a bőrben, hűvös relaxációs érzetet hagy maga után ragacsos érzés nélkül. Használható bőrápolásra, zúzódásokra és sérülésekre is. A termék nem tartalmaz mesterséges illatanyagokat, és dermatológiailag tesztelt."
   image : "images/about.png"
 
 
 ######################## raw material #######################
 material:
   enable : true
-  title : "Ingredientes de nuestro producto"
+  title : "Termékünk összetevői"
   subtitle : "natural"
   materialItem:
     # material item loop
@@ -51,24 +51,24 @@ material:
 ########################### Advantage #########################
 advantage:
   enable : true
-  title : "Beneficios de usar nuestro producto"
-  subtitle : "Consistencia de crema ultraligera y sin aceite"
+  title : "A termékünk használatának előnyei"
+  subtitle : "Ultrakönnyű, olajmentes krémállag"
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
-    - listItem : "Extremely lightweight"
-    - listItem : "Excellent breathability"
-    - listItem : "Can increase Cell activation"
-    - listItem : "Glowing Skin In 7 Days"
-    - listItem : "Increasing Glow Of Face"
-    - listItem : "More Beautiful Face Skin"
+    - listItem : "különféle hatásai miatt kozmetikumokhoz, kenőcsökhöz vagy masszázs emulziókhoz adják"
+    - listItem : "gyulladáscsökkentő, regeneráló és antibakteriális tulajdonságokkal rendelkezik"
+    - listItem : "támogatja a sebek és égések gyógyulását"
+    - listItem : "lassítja a bőr öregedési folyamatát, hidratálja, puhítja és kisimítja a bőrt"
+    - listItem : "megnyugtatja a bőrbetegségeket (pl. pikkelysömör, ekcéma, pattanások, visszerek, ödéma és allergiás reakciók)"
+    - listItem : "ellazítja az izmokat és a merev ízületeket"
 
 
 ######################## Promo Video ##########################
 video:
   enable : true
-  title : "Cómo utilizar el producto?"
-  content : "Aplicar la cantidad necesaria de crema en el rostro con suaves movimientos de masaje."
+  title : "Hogyan kell használni a terméket?"
+  content : "A krém a kikapcsolódás és a gyengéd hűvösség érzetét kelti a bőrben. Nem hagy ragacsos érzést. Vigye fel a szükséges mennyiségű krémet a masszírozni kívánt testrészre, és kezdje el finoman masszírozni. A kezelést szükség szerint meg kell ismételni, lehetőleg naponta 3-5 alkalommal:"
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -89,26 +89,26 @@ testimonial:
     - name : "Florentina Villca"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Me gustó la crema, veo el resultado y por eso les aconsejo a todos!"
+      content : "Tetszett a krém, látom az eredményt, és ezért tanácsolom mindenkinek!"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Ana Pankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "No tomo la crema por primera vez. Satisfecho. Entro al complejo durante el día."
+      content : "A krémet nem először veszem be. Elégedett. Napközben belépek a komplexumba."
       rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "Gektor Sucso"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Esta no es la primera vez que uso la crema, sin irritación, buenas sensaciones en la piel."
+      content : "Nem először használom a krémet, nincs irritáció, jó érzés a bőrön."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Kalista Tankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Se me acercó y realmente le gustó. La piel posterior es aterciopelada."
+      content : "Felkereste, és nagyon megtetszett neki. A hátsó bőr bársonyos."
       rating : "four" # rating star, one to five
